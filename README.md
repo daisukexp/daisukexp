@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daisukexp
 - 👀 I’m interested in Data Science
-- 🌱 I completed all the academic works to receive a Master of Science degree in Data Science from Universiry of Colorado Boulder
+- 🌱 I hold a Master of Science degree in Data Science from Universiry of Colorado Boulder
 - 💞️ I’m looking to collaborate on people who have same intersts
 
 <!---
